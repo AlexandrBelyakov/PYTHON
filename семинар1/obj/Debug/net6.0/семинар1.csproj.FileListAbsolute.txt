@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ПИТОН\python\семинар1\bin\Debug\net6.0\семинар1.exe
+C:\Users\user\Desktop\ПИТОН\python\семинар1\bin\Debug\net6.0\семинар1.deps.json
+C:\Users\user\Desktop\ПИТОН\python\семинар1\bin\Debug\net6.0\семинар1.runtimeconfig.json
+C:\Users\user\Desktop\ПИТОН\python\семинар1\bin\Debug\net6.0\семинар1.dll
+C:\Users\user\Desktop\ПИТОН\python\семинар1\bin\Debug\net6.0\семинар1.pdb
+C:\Users\user\Desktop\ПИТОН\python\семинар1\obj\Debug\net6.0\семинар1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ПИТОН\python\семинар1\obj\Debug\net6.0\семинар1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ПИТОН\python\семинар1\obj\Debug\net6.0\семинар1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ПИТОН\python\семинар1\obj\Debug\net6.0\семинар1.AssemblyInfo.cs
+C:\Users\user\Desktop\ПИТОН\python\семинар1\obj\Debug\net6.0\семинар1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ПИТОН\python\семинар1\obj\Debug\net6.0\семинар1.dll
+C:\Users\user\Desktop\ПИТОН\python\семинар1\obj\Debug\net6.0\refint\семинар1.dll
+C:\Users\user\Desktop\ПИТОН\python\семинар1\obj\Debug\net6.0\семинар1.pdb
+C:\Users\user\Desktop\ПИТОН\python\семинар1\obj\Debug\net6.0\семинар1.genruntimeconfig.cache
+C:\Users\user\Desktop\ПИТОН\python\семинар1\obj\Debug\net6.0\ref\семинар1.dll
